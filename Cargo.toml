@@ -11,7 +11,7 @@ members = [
 ]
 default-members = ["easytier", "easytier-web"]
 exclude = [
-    "easytier-contrib/easytier-ohrs", # it needs ohrs sdk
+    "easytier-contrib/easytier-ohrs", # it needs ohrs sdk  
 ]
 
 [profile.dev]

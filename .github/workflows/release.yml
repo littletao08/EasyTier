@@ -6,17 +6,17 @@ on:
       core_run_id:
         description: 'The run id of EasyTier-Core Action in EasyTier repo'
         type: number
-        default: 10322498549
+        default: 17757320413
         required: true
       gui_run_id:
         description: 'The run id of EasyTier-GUI Action in EasyTier repo'
         type: number
-        default: 10322498557
+        default: 17757320381
         required: true
       mobile_run_id:
         description: 'The run id of EasyTier-Mobile Action in EasyTier repo'
         type: number
-        default: 10322498555
+        default: 17757320391
         required: true
       version:
         description: 'Version for this release'
